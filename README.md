@@ -9,24 +9,15 @@ You must first have the official MIMo GitHub repository cloned and set up on you
 ### Steps:
 
 1. **Clone the official MIMo repository**:
+   https://github.com/trieschlab/MIMo.git
 
-    ```bash
-    git clone <MIMo-GitHub-URL>
-    ```
 
-2. **Replace `selfbody.py`**:
+3. **Replace `selfbody.py`**:
 
     Copy the `selfbody.py` file from this repository and replace the existing one in the MIMo environment directory.
 
     ```bash
     cp selfbody.py /path-to-MIMo-repo/mimoEnv/selfbody.py
-    ```
-
-3. **Install the MIMo environment**:
-
-    ```bash
-    cd /path-to-MIMo-repo
-    pip install -e .
     ```
 
 ## Repository Contents
