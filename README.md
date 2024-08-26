@@ -31,6 +31,7 @@ You must first have the official MIMo GitHub repository cloned and set up on you
 - `selfbody.py`: Custom modifications to the MIMo environment. Replace the original `selfbody.py` with this one.
 - `train_ppo.py`: Script for training a PPO model in the MIMo environment.
 - `train_sac.py`: Script for training a SAC model in the MIMo environment.
+- `MIMo Environment Documentation.pdf`: A detailed document explaining the setup and configuration of the MIMo environment, including descriptions of the observation and action spaces, reward structure, and the algorithms used (SAC and PPO).
 
 ## Running Experiments
 
